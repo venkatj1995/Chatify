@@ -1,0 +1,18 @@
+.box{
+    display:flex;
+    justify-content:center;
+  }
+
+.customer-tilte{
+    flex:1;
+    display: flex;
+    /* justify-content: center; */
+    justify-content: space-between;
+
+    
+}
+
+table {
+    width: 100%;
+  }
+  
